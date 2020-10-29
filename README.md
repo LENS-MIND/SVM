@@ -17,11 +17,15 @@ This is not a maintained repository. It is a collection of scripts.
 ## Content: 
 
 -The repository contains the datasets built for this analysis in the folder /Data.
--It also contain the results of the hyperparameter optimization in the folder /Gridsearch_results.
--It includes 3 python files where all the functions used in this study are presented.
+
+-The repository contains the results of the hyperparameter optimization in the folder /Gridsearch_results.
+
+-The repository includes 3 python files where all the functions used in this study are presented:
+
 	SVM_Preprocessing: functions involved in the spectrum images processing to get the spectral dataset. 
 	SVM_Test: contain all the functions involving the testing the performance of the SVM algorithm to classifying EEL spectra. 
 	SVM_Train: cotain all the functions involved in the training and optimization of the SVM estimator. 
+	
 -A jupyter notebook is also included with an example of use of all the functions include in the python files. 
 
 ## Usage: 
