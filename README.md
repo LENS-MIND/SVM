@@ -1,3 +1,18 @@
+# Support Vector Machine applied to Electron Energy Loss Spectroscopy (EELS)
+
+## Author: Daniel del Pozo Bueno
+
+Soft-margin Support Vector Machine (SVM) applied to EEL spectra for determining the oxidation state of Iron Oxides an Manganese oxides. 
+
+This is not a maintained repository. It is a collection of scripts.
+
+## Libraries or Dependencies: 
+
+- HyperSpy 1.3
+- numpy 1.13.1
+- scikit-learn 1.18
+- pandas 0.18.1
+- matplotlib 1.5.3
 
 ## Content: 
 
@@ -33,3 +48,4 @@ Each dataset has associated a label file, the labels values are realted with the
 -4: manganese oxide -> Mn+4
 
 ## Relevant Gridsearch_results details: 
+
