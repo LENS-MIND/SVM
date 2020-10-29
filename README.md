@@ -31,7 +31,7 @@ This is not a maintained repository. It is a collection of scripts.
 
 ## Usage information:
 
-The use of the different functions is applied in the SVM_notebook included. 
+The use of the different functions is applied and detailed in the SVM_notebook included. 
 
 ## Spectral datasets information:
 
