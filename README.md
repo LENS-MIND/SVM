@@ -41,7 +41,7 @@ Spectral datasets included:
 - Fe_Mn = PCA clean iron and manganese spectra.
 - Ferw_Mn = PCA clean manganese spectra and original iron spectra. 
 
-Each dataset has associated a label file, the labels values are realted with the element and oxidation state as follows:
+Each dataset has associated a label file, the labels values are related with the element and oxidation state as follows:
 
 - Class 0: Iron oxide -> wüstite (Fe+2)
 - Class 1: Iron oxide -> magnetite (Fe+2 2Fe+3)
