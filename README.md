@@ -6,7 +6,7 @@ Soft-margin Support Vector Machine (SVM) applied to EEL spectra for determining 
 
 This is not a maintained repository. It is a collection of scripts.
 
-##Libraries or Dependencies: 
+## Libraries or Dependencies: 
 
 - HyperSpy 1.3
 - numpy 1.13.1
@@ -14,7 +14,7 @@ This is not a maintained repository. It is a collection of scripts.
 - pandas 0.18.1
 - matplotlib 1.5.3
 
-##Content: 
+## Content: 
 
 -The repository contains the datasets built for this analysis in the folder /Data.
 -It also contain the results of the hyperparameter optimization in the folder /Gridsearch_results.
@@ -24,4 +24,4 @@ This is not a maintained repository. It is a collection of scripts.
 	SVM_Train: cotain all the functions involved in the training and optimization of the SVM estimator. 
 -A jupyter notebook is also included with an example of use of all the functions include in the python files. 
 
-##Usage: 
+## Usage: 
