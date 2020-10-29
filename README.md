@@ -29,11 +29,11 @@ This is not a maintained repository. It is a collection of scripts.
 	
 -A jupyter notebook is also included with an example of use of all the functions include in the python files. 
 
-## Usage:
+## Usage information:
 
 The use of the different functions is applied in the SVM_notebook included. 
 
-## Relevant Spectral datasets details:
+## Spectral datasets information:
 
 Spectral datasets included: 
 - Fe_All = PCA clean iron spectra. 
@@ -49,6 +49,6 @@ Each dataset has associated a label file, the labels values are realted with the
 - Class 3: Manganese oxide -> Mn+3
 - Class 4: Manganese oxide -> Mn+4
 
-## Relevant Gridsearch_results details: 
+## Gridsearch_results information: 
 
 For each kernel and dataset the hyperparameters are optimized, their results are presented in the Gridsearch_results folder. The names indicate the kernel used and the training set used. The kernels keys used are: lin = linear, rbf = radial basis function, sig = sigmoid. 
