@@ -8,11 +8,12 @@ This is not a maintained repository. It is a collection of scripts.
 
 ## Libraries or Dependencies: 
 
-- HyperSpy 1.3
-- numpy 1.13.1
-- scikit-learn 1.18
-- pandas 0.18.1
-- matplotlib 1.5.3
+- HyperSpy 1.5.2
+- numpy 1.17.4
+- scikit-learn 0.22.2.post1
+- scipy 1.3.1
+- pandas 0.25.1
+- matplotlib 3.1.1
 
 ## Content: 
 
