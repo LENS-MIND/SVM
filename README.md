@@ -44,7 +44,7 @@ Spectral datasets included:
 Each dataset has associated a label file, the labels values are realted with the element and oxidation state as follows:
 
 - Class 0: iron oxide -> wustite (Fe+2)
-- Class 1: iron oxide -> magnetite (Fe+2 2Fe+3)
+- Class 1: iron oxide -> magnetite ($Fe^{+2} 2Fe^{+3}$)
 - Class 2: manganese oxide -> Mn+2
 - Class 3: manganese oxide -> Mn+3
 - Class 4: manganese oxide -> Mn+4
