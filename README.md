@@ -2,7 +2,7 @@
 
 ## Author: Daniel del Pozo Bueno
 
-Soft-margin Support Vector Machine (SVM) applied to EEL spectra for determining the oxidation state of Iron Oxides an Manganese oxides. 
+Soft-margin Support Vector Machine (SVM) applied to EEL spectra for determining the oxidation state of Iron oxides an Manganese oxides through the study of their white lines. This repository includes the testing methodology to evaluate the SVM algorithm performance and validate their correct working. Also, it includes all datasets used for this work, in combination with scripts to easily use the SVM algorithm as a classification tool. 
 
 This is not a maintained repository. It is a collection of scripts.
 
@@ -15,7 +15,7 @@ This is not a maintained repository. It is a collection of scripts.
 - pandas 0.25.1
 - matplotlib 3.1.1
 
-## Content: 
+## Contents: 
 
 -The repository contains the datasets built for this analysis in the folder /Data.
 
